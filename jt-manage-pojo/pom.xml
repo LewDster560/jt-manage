@@ -8,17 +8,17 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.jt.manage</groupId>
-  <artifactId>jt-manage-mapper</artifactId>
+  <artifactId>jt-manage-pojo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>jt-manage-mapper</name>
+  <name>jt-manage-pojo</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
   	<dependency>
-  		<groupId>com.jt.manage</groupId>
-  		<artifactId>jt-manage-pojo</artifactId>
+  		<groupId>com.jt.common</groupId>
+  		<artifactId>jt-common</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>

@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.jt.manage</groupId>
-  <artifactId>jt-manage-mapper</artifactId>
+  <artifactId>jt-manage-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>jt-manage-mapper</name>
+  <name>jt-manage-service</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,7 +18,7 @@
   <dependencies>
   	<dependency>
   		<groupId>com.jt.manage</groupId>
-  		<artifactId>jt-manage-pojo</artifactId>
+  		<artifactId>jt-manage-mapper</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>
